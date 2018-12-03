@@ -1,7 +1,7 @@
 {
   "name": "bip39",
   "version": "2.5.0",
-  "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys",
+  "description": "used for generating deterministic keys for ARD-wallet",
   "main": "index.js",
   "scripts": {
     "coverage": "nyc --branches 100 --functions 100 --check-coverage npm run unit",
@@ -16,11 +16,15 @@
       "name": "Daniel Cousens",
       "email": "email@dcousens.com",
       "url": "http://dcousens.com"
+    },
+    {
+      "name": "wkibbler",
+      "email": "william.kibbler@protonmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/weilu/bip39.git"
+    "url": "https://github.com/wkibbler/bip39.git"
   },
   "license": "ISC",
   "dependencies": {
