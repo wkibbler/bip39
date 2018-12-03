@@ -5,7 +5,7 @@
 
 JavaScript implementation of [Bitcoin BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki): Mnemonic code for generating deterministic keys
 
-#ARD wallet
+# ARD wallet
 This is a striped down version of the original js bip39 by bitcoinjs which can be found at https://github.com/bitcoinjs/bip39 . It does not contain the function to create mnemonics from a word list or have testnet support. I would suggest against using this for your application and instead use the original version by using the repo above.
 
 ## Examples
