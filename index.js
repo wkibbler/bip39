@@ -127,17 +127,4 @@ module.exports = {
   entropyToMnemonic: entropyToMnemonic,
   generateMnemonic: generateMnemonic,
   validateMnemonic: validateMnemonic,
-  wordlists: {
-    EN: ENGLISH_WORDLIST,
-    JA: JAPANESE_WORDLIST,
-
-    chinese_simplified: CHINESE_SIMPLIFIED_WORDLIST,
-    chinese_traditional: CHINESE_TRADITIONAL_WORDLIST,
-    english: ENGLISH_WORDLIST,
-    french: FRENCH_WORDLIST,
-    italian: ITALIAN_WORDLIST,
-    japanese: JAPANESE_WORDLIST,
-    korean: KOREAN_WORDLIST,
-    spanish: SPANISH_WORDLIST
-  }
 }
